@@ -1,0 +1,45 @@
+.input-field {
+  padding: 10px 175px;
+  text-align: center;
+  border-radius: 5px;
+}
+.input-field-1 {
+  padding: 10px 40px;
+  text-align: center;
+  border-radius: 5px;
+}
+.input-field-2 {
+  padding: 10px 40px;
+  text-align: center;
+  border-radius: 5px;
+}
+.input-btn {
+  background-color: #2878dacf;
+  color: aliceblue;
+  border: 0px;
+  padding: 10px 80px;
+  margin: 10px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+.input-btn:hover {
+  background-color: #165aaccf;
+  color: #fffdffcf;
+  border: 0px;
+  padding: 10px 80px;
+  margin: 10px;
+  font-weight: bold;
+  border-radius: 5px;
+  /* border: 1px solid #b707d2cf; */
+  transition: 0.9s;
+}
+.h1 {
+  color: #2878dacf;
+  margin-bottom: 20px;
+}
+.information {
+  background-color: rgb(255, 255, 255);
+}
+.information :hover {
+  background-color: rgb(178, 221, 244);
+}
